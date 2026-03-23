@@ -87,7 +87,7 @@ Instructions execute step-by-step.
 
 🔸 5. 🧩 Modular Programming
 ---
-
+---
 ## Program is divided into smaller manageable modules.
 
 ✅ 👍 Advantages
@@ -96,45 +96,42 @@ Instructions execute step-by-step.
 ✔️ Easy debugging
 ✔️ Less memory usage
 ✔️ Faster execution
-❌ 👎 Disadvantages
+---
+
+---
+## ❌ 👎 Disadvantages
+
 ❌ Lack of data security
 ❌ Difficult for large programs
 ❌ No data hiding
 ❌ Limited code reusability
 ❌ Difficult maintenance
-⚖️ 🔄 POP vs OOP
-🔍 Feature	🧩 POP	🧱 OOP
-🎯 Focus	Functions	Objects
-🧭 Approach	Top-down	Bottom-up
-🔐 Data Security	Low	High
-♻️ Reusability	Limited	High
-🛠 Maintenance	Difficult	Easy
-🌍 💡 Applications of POP
+---
+
+| 🔍 Feature       | 🧩 POP    | 🧱 OOP    |
+| ---------------- | --------- | --------- |
+| 🎯 Focus         | Functions | Objects   |
+| 🧭 Approach      | Top-down  | Bottom-up |
+| 🔐 Data Security | Low       | High      |
+| ♻️ Reusability   | Limited   | High      |
+| 🛠 Maintenance   | Difficult | Easy      |
+
+---
+## 🌍 💡 Applications of POP
+
 🖥 System Programming (C language)
 🔌 Embedded Systems
 📊 Scientific Calculations
 📐 Algorithm-based Programs
 🧪 Small-scale Applications
-⚠️ 🚧 Limitations
+---
+---
+### ⚠️ 🚧 Limitations
+
 ❌ Not suitable for large systems
 ❌ Poor real-world modeling
 ❌ Data can be modified easily
 ❌ Not ideal for modern development
-🎯 💭 Why POP is Important?
-📌 Builds foundation of programming
-📌 Helps in logic building
-📌 Prepares for advanced paradigms like OOP
-🏁 📢 Conclusion
+---
 
-📘 Procedure-Oriented Programming (POP) is a fundamental paradigm focused on:
 
-✔️ Functions
-✔️ Step-by-step problem solving
-
-However, it lacks:
-
-🔐 Data security
-♻️ Reusability
-📈 Scalability
-
-👉 These limitations led to the development of Object-Oriented Programming (OOP).
