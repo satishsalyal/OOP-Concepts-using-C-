@@ -6,7 +6,7 @@
 ---
 ```markdown
 <div align="center">
-  <img src="(https://github.com/satishsalyal/OOP-Concepts-using-C-/blob/main/OOPs.png)" width="80%" />
+  <img src="https://github.com/satishsalyal/OOP-Concepts-using-C-/blob/main/OOPs.png" width="80%" />
 </div>
 ```
 
