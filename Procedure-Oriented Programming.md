@@ -118,19 +118,19 @@ Instructions execute step-by-step.
 ---
 ## 🌍 💡 Applications of POP
 
-🖥 System Programming (C language)
-🔌 Embedded Systems
-📊 Scientific Calculations
-📐 Algorithm-based Programs
-🧪 Small-scale Applications
+- 🖥 System Programming (C language)
+- 🔌 Embedded Systems
+- 📊 Scientific Calculations
+- 📐 Algorithm-based Programs
+- 🧪 Small-scale Applications
 ---
 ---
 ### ⚠️ 🚧 Limitations
 
-❌ Not suitable for large systems
-❌ Poor real-world modeling
-❌ Data can be modified easily
-❌ Not ideal for modern development
+- ❌ Not suitable for large systems
+- ❌ Poor real-world modeling
+- ❌ Data can be modified easily
+- ❌ Not ideal for modern development
 ---
 
 
