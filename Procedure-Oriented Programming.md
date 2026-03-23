@@ -23,8 +23,9 @@ In POP, a program is divided into smaller parts called **functions**, where each
 
 # 🎯 Simple Visual (No Mermaid – Works Everywhere)
 
-```markdown
 ## 📌 POP Structure (Simple Representation)
+```markdown
+
 
         +-------------------+
         |     Main Program  |
