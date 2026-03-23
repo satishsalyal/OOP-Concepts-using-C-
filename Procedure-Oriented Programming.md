@@ -39,6 +39,7 @@ In POP, a program is divided into smaller parts called **functions**, where each
           +----------------+
           |   Shared Data  |
           +----------------+
+```
 ---
 ## ⚙️ Key Characteristics
 
