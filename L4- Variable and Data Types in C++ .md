@@ -15,7 +15,7 @@ A variable is defined as an identifier used to identify and store input data in 
 
 ## 🧾 🔤 Variable Naming Rules
 
-While the specific rules provided are cited for Java, they represent standard practices for C-style languages:
+While the specific rules provided are cited f, they represent standard practices for C-style languages:
 
 * 🔡 **Case Sensitivity:** Variable names are case-sensitive (e.g., `money` and `Money` are distinct)
   .
@@ -139,22 +139,6 @@ Several principles regarding how data is handled in C++:
 * 🔒 **Data Hiding:** C++ is noted as being more secure than older procedural languages because it provides a proper way to implement data hiding through encapsulation
   .
 
----
-
-## 💻 ⚙️ C++ Data Context
-
-The sources provide specific context for how C++ manages data compared to other languages:
-
-* ⚡ **Compiled Performance:** Because C++ is a compiled language, it processes its data types and logic faster than interpreted languages like Java
-  .
-
-* 🧠 **Portability:** C++ is classified as non-portable because its data types are tied to the specific architecture of the hardware
-  .
-
-* ⚠️ **Complexity:** The sources suggest that managing data in C++ can be more complex and harder to learn than in languages like Java
-  .
-
----
 
 ## 🏁 📢 Summary
 
