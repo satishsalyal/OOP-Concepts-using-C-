@@ -82,7 +82,7 @@ A few specific characteristics regarding the environment in which C++ variables 
 ### 🔹 1. Fundamental (Primitive)
 
 These are the most basic types that store a single value, such as integers or characters
-. The sources note that in languages like C++, these are often architecturally dependent, meaning their exact size can vary based on the processor
+. In C++, these are often architecturally dependent, meaning their exact size can vary based on the processor
 .
 
 ---
