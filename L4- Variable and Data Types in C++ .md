@@ -31,7 +31,7 @@ A variable is defined as an identifier used to identify and store input data in 
 
 ## 🧩 📊 Types of Variables and Scope
 
-In C++ variables categorize into three primary types based on their location and behavior, which are fundamental concepts in both C++:
+In C++ variables categorize into three primary types based on their location and behavior, which are fundamental concepts in C++:
 
 | 🏷️ Variable Type         | 📖 Definition and Scope                                                                                                                                             |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
