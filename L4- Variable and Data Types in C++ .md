@@ -67,17 +67,17 @@ A few specific characteristics regarding the environment in which C++ variables 
 
 
 
-# 📘 Data Types in C++ (OOP Context)
+# 📘 Data Types in C++ 
 
 ---
 
 ## 🌟 Overview
 
-The sources categorize data types into three main groups, which are fundamental to the logic of C-style languages like C++:
+ In C++ data types categorize  into three main groups :
 
 ---
 
-## 🧩 🔑 General Categories of Data Types
+## 🧩 🔑 Categories of Data Types
 
 ### 🔹 1. Fundamental (Primitive)
 
